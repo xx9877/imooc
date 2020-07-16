@@ -13,6 +13,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 public class SellApplicationTests {
 
     @Test
+    @Ignore
     public void contextLoads() {
         String name= "imooc";
         String password = "12345";
